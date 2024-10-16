@@ -4,16 +4,18 @@
 
   [![trophy](https://github-profile-trophy.vercel.app/?username=maestro-zacht&title=-Followers,-Reviews&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p/>
+</p>
 
-<div/>
+</div>
   
-- Double Degree student at Politecnico di Torino (Cloud Computing) and EURECOM (Data Science).
-- Fullstack dev in my free time
-- I love skiing! :skier:
-- Playing EVE Online
+- :student: Double Degree student at Politecnico di Torino (Cloud Computing) and EURECOM (Data Science).
+- :computer: Fullstack dev in my free time.
+- :skier: I love skiing!
+- :video_game: Player and Third Party Developer for EVE Online.
 
 <div align="center">
+  
+![eve_partner](https://github.com/user-attachments/assets/86d44081-c262-4cb8-b23c-580f36d5c499)
 
 ## 💻 My Tech Stack:
 
@@ -23,9 +25,13 @@
 
   <p>
     <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=maestro-zacht&layout=compact&theme=dark" />
-  </p>
 
-<div/>
+  ![Pepy Total Downloads](https://img.shields.io/pepy/dt/allianceauth-graphql?style=plastic&label=AA-GraphQL&link=https%3A%2F%2Fwww.pepy.tech%2Fprojects%2Fallianceauth-graphql)
+  ![Pepy Total Downloads](https://img.shields.io/pepy/dt/allianceauth-pve?style=plastic&label=AA-PvE&link=https%3A%2F%2Fwww.pepy.tech%2Fprojects%2Fallianceauth-pve)
+  ![CharLink Total Downloads](https://img.shields.io/pepy/dt/aa-charlink?style=plastic&label=CharLink&link=https%3A%2F%2Fwww.pepy.tech%2Fprojects%2Faa-charlink)
+    
+  </p>
+</div>
 
 
 
