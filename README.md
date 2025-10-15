@@ -24,7 +24,7 @@
 ## 🏆 My Stats:
 
   <p>
-    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=maestro-zacht&layout=compact&theme=dark" />
+    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=maestro-zacht&layout=compact&theme=dark&hide=jupyter%20notebook,tex" />
 
   ![Pepy Total Downloads](https://img.shields.io/pepy/dt/allianceauth-graphql?style=plastic&label=AA-GraphQL&link=https%3A%2F%2Fwww.pepy.tech%2Fprojects%2Fallianceauth-graphql)
   ![Pepy Total Downloads](https://img.shields.io/pepy/dt/allianceauth-pve?style=plastic&label=AA-PvE&link=https%3A%2F%2Fwww.pepy.tech%2Fprojects%2Fallianceauth-pve)
